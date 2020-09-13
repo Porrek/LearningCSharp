@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBankTeste", "ByteBankTeste\ByteBankTeste.csproj", "{FE887CBE-6E92-4AEA-BA80-D236F7F7779F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBankTeste2", "ByteBankTeste2\ByteBankTeste2.csproj", "{20343418-3DB5-48D0-A53C-900ADE19A738}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE887CBE-6E92-4AEA-BA80-D236F7F7779F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE887CBE-6E92-4AEA-BA80-D236F7F7779F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE887CBE-6E92-4AEA-BA80-D236F7F7779F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE887CBE-6E92-4AEA-BA80-D236F7F7779F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20343418-3DB5-48D0-A53C-900ADE19A738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20343418-3DB5-48D0-A53C-900ADE19A738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20343418-3DB5-48D0-A53C-900ADE19A738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20343418-3DB5-48D0-A53C-900ADE19A738}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E14B14D3-FCBB-4D84-888C-859205C7055A}
+	EndGlobalSection
+EndGlobal

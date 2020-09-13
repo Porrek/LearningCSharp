@@ -1,0 +1,7 @@
+C:\Users\fabio\source\repos\ByteBankTeste\ByteBankTeste2\bin\Debug\ByteBankTeste2.exe.config
+C:\Users\fabio\source\repos\ByteBankTeste\ByteBankTeste2\bin\Debug\ByteBankTeste2.exe
+C:\Users\fabio\source\repos\ByteBankTeste\ByteBankTeste2\bin\Debug\ByteBankTeste2.pdb
+C:\Users\fabio\source\repos\ByteBankTeste\ByteBankTeste2\obj\Debug\ByteBankTeste2.csprojAssemblyReference.cache
+C:\Users\fabio\source\repos\ByteBankTeste\ByteBankTeste2\obj\Debug\ByteBankTeste2.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\ByteBankTeste\ByteBankTeste2\obj\Debug\ByteBankTeste2.exe
+C:\Users\fabio\source\repos\ByteBankTeste\ByteBankTeste2\obj\Debug\ByteBankTeste2.pdb
