@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fabio\\source\\repos\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj": {}
+    "C:\\Users\\fabio\\source\\repos\\LearningCSharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fabio\\source\\repos\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj": {
+    "C:\\Users\\fabio\\source\\repos\\LearningCSharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fabio\\source\\repos\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+        "projectUniqueName": "C:\\Users\\fabio\\source\\repos\\LearningCSharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
         "projectName": "CursoCSharp",
-        "projectPath": "C:\\Users\\fabio\\source\\repos\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+        "projectPath": "C:\\Users\\fabio\\source\\repos\\LearningCSharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
         "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fabio\\source\\repos\\CursoCSharp\\CursoCSharp\\obj\\",
+        "outputPath": "C:\\Users\\fabio\\source\\repos\\LearningCSharp\\CursoCSharp\\CursoCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

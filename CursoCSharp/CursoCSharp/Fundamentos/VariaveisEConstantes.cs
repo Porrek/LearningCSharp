@@ -57,16 +57,24 @@ namespace CursoCSharp.Fundamentos
             long menorValorLong = long.MinValue;
             Console.WriteLine("Menor long é " + menorValorLong);
 
-            ulong populacaoMundial = 7_600_000_000;
+            ulong populacaoMundial = 7_600_000_000; // u significa não assinado 'unassigned'
             Console.WriteLine("População Mundial é " + populacaoMundial);
 
             //para atribuir dentro do 'float' é preciso terminar com o 'f' no final.
             float precoComputador = 1299.99f;
             Console.WriteLine("Preço Computador é " + precoComputador);
 
-            double valorDeMercadoDaApple = 1_0_
+            double valorDeMercadoDaApple = 1_000_000_000.00; // Mais usados dos reais!!
+            Console.WriteLine("Valor da Apple é " + valorDeMercadoDaApple);
 
+            decimal distanciaEntreEstrelas = decimal.MaxValue;
+            Console.WriteLine("Distancia entre Estrelas é " + distanciaEntreEstrelas);
 
+            char letra = 'b'; //uma letra pode ser delimitada por uma aspas simples.
+            Console.WriteLine("Letra " + letra);
+
+            string texto = "Seja bem vindo ao Curso de C#"; //string tem uma cadencia de letras maior que o 'char'.
+            Console.WriteLine(texto);
         }
     }
 }
