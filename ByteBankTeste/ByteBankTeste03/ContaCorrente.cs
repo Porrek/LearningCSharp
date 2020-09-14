@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ByteBankTeste2
+namespace ByteBankTeste3
 {
     class ContaCorrente
     {
-        public string titular;
+        public Cliente titular;
         public int agencia;
         public int numero;
         public double saldo = 100;      
