@@ -1,0 +1,7 @@
+C:\Users\fabio\source\repos\LearningCSharp\ByteBankTeste\ByteBankTeste6\bin\Debug\ByteBankTeste6.exe.config
+C:\Users\fabio\source\repos\LearningCSharp\ByteBankTeste\ByteBankTeste6\bin\Debug\ByteBankTeste6.exe
+C:\Users\fabio\source\repos\LearningCSharp\ByteBankTeste\ByteBankTeste6\bin\Debug\ByteBankTeste6.pdb
+C:\Users\fabio\source\repos\LearningCSharp\ByteBankTeste\ByteBankTeste6\obj\Debug\ByteBankTeste6.csprojAssemblyReference.cache
+C:\Users\fabio\source\repos\LearningCSharp\ByteBankTeste\ByteBankTeste6\obj\Debug\ByteBankTeste6.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\LearningCSharp\ByteBankTeste\ByteBankTeste6\obj\Debug\ByteBankTeste6.exe
+C:\Users\fabio\source\repos\LearningCSharp\ByteBankTeste\ByteBankTeste6\obj\Debug\ByteBankTeste6.pdb
