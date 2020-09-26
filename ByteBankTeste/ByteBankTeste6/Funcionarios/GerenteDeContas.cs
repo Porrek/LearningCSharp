@@ -7,14 +7,13 @@ using System.Threading.Tasks;
 
 namespace ByteBankTeste6.Funcionarios
 {
-    public class Diretor : Autenticavel
+    public class GerenteDeContas : Autenticavel
     {
         //public string Senha { get; set; }
-        public Diretor(string cpf) : base(5000, cpf)
+        public GerenteDeContas(string cpf) : base(4000, cpf)
         {
-            Console.WriteLine("Criando DIRETOR");
+            Console.WriteLine("Criando GERENTE DE CONTAS");
         }
-
         //public bool Autenticar(string senha)
         //{
         //    return Senha == senha;
@@ -22,12 +21,12 @@ namespace ByteBankTeste6.Funcionarios
 
         public override void AumentarSalario()
         {
-            Salario *= 1.15;
+            Salario *= 1.05;
         }
 
         public override double GetBonificacao()
-        {            
-            return Salario * 0.5;
+        {
+            return Salario * 0.25;
         }
     }
 }
