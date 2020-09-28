@@ -7,18 +7,12 @@ using System.Threading.Tasks;
 
 namespace ByteBankTeste6.Funcionarios
 {
-    public class GerenteDeContas : Autenticavel
+    public class GerenteDeContas : FuncionarioAutenticavel
     {
-        //public string Senha { get; set; }
         public GerenteDeContas(string cpf) : base(4000, cpf)
         {
             Console.WriteLine("Criando GERENTE DE CONTAS");
         }
-        //public bool Autenticar(string senha)
-        //{
-        //    return Senha == senha;
-        //}
-
         public override void AumentarSalario()
         {
             Salario *= 1.05;

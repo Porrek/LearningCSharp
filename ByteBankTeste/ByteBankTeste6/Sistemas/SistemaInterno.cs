@@ -9,7 +9,7 @@ namespace ByteBankTeste6.Sistemas
 {
     public class SistemaInterno
     {
-        public bool Logar(Autenticavel funcionario, string senha)
+        public bool Logar(IAutenticavel funcionario, string senha)
         {
             bool usuarioAutenticado = funcionario.Autenticar(senha);
 
@@ -23,8 +23,6 @@ namespace ByteBankTeste6.Sistemas
                 Console.WriteLine("Senha Incorreta!");
                 return false;
             }
-
         }
-
     }
 }
