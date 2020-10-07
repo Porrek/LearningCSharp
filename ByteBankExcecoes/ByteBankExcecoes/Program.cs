@@ -10,13 +10,44 @@ namespace ByteBankExcecoes
     {
         static void Main(string[] args)
         {
-            ContaCorrente conta = new ContaCorrente(86712345, 867);
-            Console.WriteLine(ContaCorrente.TotalDeContasCriadas);
-
-            ContaCorrente contaDaGabriela = new ContaCorrente(987441555, 987);
-            Console.WriteLine(ContaCorrente.TotalDeContasCriadas);
+            try
+            {
+                Metodo();
+            }
+            catch (NullReferenceException)
+            {
+                Console.WriteLine("Aconteceu um erro!");
+            }
 
             Console.ReadLine();
+        }
+
+        private static void Metodo()
+        {
+            TestaDivisao(0);
+        }
+
+        private static void TestaDivisao(int divisor)
+        {
+            try
+            {
+                int resultado = Dividir(10, divisor);
+                Console.WriteLine("Resultador da divisão de 10 por" + divisor + "é" + resultado);
+            }
+            catch(DivideByZeroException erro)
+            {
+                Console.WriteLine(erro.Message);
+                Console.WriteLine(erro.StackTrace);
+                Console.WriteLine("Não é Possível fazer uma divisão por 0!");
+            }
+        }
+
+        private static int Dividir(int numero, int divisor)
+        {
+            ContaCorrente conta = null;
+            Console.WriteLine(conta.Saldo);
+
+            return numero / divisor;
         }
     }
 }

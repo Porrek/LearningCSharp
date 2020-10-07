@@ -1,0 +1,7 @@
+C:\Users\fabio\source\repos\LearningCSharp\ByteBankExcecoes\ByteBankExcecoes\bin\Debug\ByteBankExcecoes.exe.config
+C:\Users\fabio\source\repos\LearningCSharp\ByteBankExcecoes\ByteBankExcecoes\bin\Debug\ByteBankExcecoes.exe
+C:\Users\fabio\source\repos\LearningCSharp\ByteBankExcecoes\ByteBankExcecoes\bin\Debug\ByteBankExcecoes.pdb
+C:\Users\fabio\source\repos\LearningCSharp\ByteBankExcecoes\ByteBankExcecoes\obj\Debug\ByteBankExcecoes.csprojAssemblyReference.cache
+C:\Users\fabio\source\repos\LearningCSharp\ByteBankExcecoes\ByteBankExcecoes\obj\Debug\ByteBankExcecoes.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\LearningCSharp\ByteBankExcecoes\ByteBankExcecoes\obj\Debug\ByteBankExcecoes.exe
+C:\Users\fabio\source\repos\LearningCSharp\ByteBankExcecoes\ByteBankExcecoes\obj\Debug\ByteBankExcecoes.pdb
